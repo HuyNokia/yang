@@ -18,7 +18,7 @@
 	branch = v2.6.1
 [submodule "vendor/nokia"]
 	path = vendor/nokia
-	url = https://github.com/nokia/YangModels.git
+	url = https://github.com/HuyVo2112/YangModels.git
 [submodule "vendor/juniper"]
 	path = vendor/juniper
 	url = https://github.com/Juniper/yang.git
